@@ -3,6 +3,8 @@ Implementation of a SAT solver that i have done as a part of my programming inte
 
 run the build.sh script to compile
 
+the software takes inputs in the DIMACS format archive.dimacs.rutgers.edu/pub/challenge/satisfiability/
+
 Paper by Danstin Goerdt et al:
 
 Evgeny Dantsin, Andreas Goerdt, Edward A Hirsch, Ravi Kannan, Jon Kleinberg, Christos Papadimitriou, Prabhakar Raghavan, Uwe Schöning,
